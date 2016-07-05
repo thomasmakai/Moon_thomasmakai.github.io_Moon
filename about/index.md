@@ -1,5 +1,5 @@
 ---
-layout: page
+layout:
 title:
 tags: [about, linkedin, profile]
 date: 
